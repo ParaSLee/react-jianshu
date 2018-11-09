@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [{
+      "id": 1,
+      "title": "社会热点",
+      "imgUrl": "https://upload.jianshu.io/admin_banners/web_images/4546/dd55f322074ccec0be40c927e0705ef137f848b2.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+    },{
+      "id": 2,
+      "title": "读书",
+      "imgUrl": "https://upload.jianshu.io/admin_banners/web_images/4546/dd55f322074ccec0be40c927e0705ef137f848b2.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+    }],
+    "articleList": [{
+      "id": 1,
+      "title": "学会这两个键你就是电脑高手了，快速学起来吧",
+      "desc": "windows键 Windows+L 很多时候，需要暂时离开座位去做别的事情，如果对自己的电脑安全很重视，不妨按住windows键后，再按L键，...",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/11438883-3014c62b2bdfab9f?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    },{
+      "id": 2,
+      "title": "超级简单的瘦身方法，1天掉1斤",
+      "desc": "今天向大家介绍下，我大学减肥的方法，非常简单，坚持一个月，最起码能瘦10斤。关键是这个方法不用运动，对我这种懒人来说，最好用了。 001.一定吃...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/13603356-13adff19d43533db?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    },{
+      "id": 3,
+      "title": "前端要凉？？？",
+      "desc": "PS：转载请注明出处作者: TigerChain地址: https://www.jianshu.com/p/0830fe9950bb本文出自 T...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/1586207-607780d83f22543e.png?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    },{
+      "id": 4,
+      "title": "手写评论第五期",
+      "desc": "PS：转载请注明出处作者: TigerChain地址: https://www.jianshu.com/p/0830fe9950bb本文出自 T...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/8103605-409fb06ae3a27449.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    },{
+      "id": 5,
+      "title": "自媒体赚小钱很累、赚大钱反而轻松",
+      "desc": "健康第一、日行万步――10728步。 专注自媒体运营，践行成长的力量，每天写一篇文章，分享我的经验和观察，这是我的第128篇原创文章。 先赚钱，.",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/8570512-bdfb7a68ef7c2078.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    }],
+    "imgUrl": [{
+      "id": 1,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+    },{
+      "id": 2,
+      "imgUrl": "//cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+    },{
+      "id": 3,
+      "imgUrl": "//cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+    },{
+      "id": 4,
+      "imgUrl": "//cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+    },{
+      "id": 5,
+      "imgUrl": "//cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+    }]
+  }
+}
